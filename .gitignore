@@ -2,9 +2,12 @@ dataset
 .venv
 
 raw
-runs
+# runs
 yolo11n.pt
 yolo26m.pt
 yolo26n.pt
 
 __pycache__
+
+runs/detect/predict*
+runs/train
