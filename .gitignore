@@ -1,0 +1,10 @@
+dataset
+.venv
+
+raw
+runs
+yolo11n.pt
+yolo26m.pt
+yolo26n.pt
+
+__pycache__
