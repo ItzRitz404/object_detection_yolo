@@ -79,7 +79,7 @@ cd object_detection_yolo
 Some scripts currently use absolute local file paths, for example:
 
 ```
-/home/ritz/Documents/object_detection/
+<PROJECT_ROOT>/object_detection/
 ```
 
 Before running this project on another machine, update those paths inside:
