@@ -284,8 +284,6 @@ Possible next steps for the project:
 
 No license file is currently included in this repository.
 
-If you plan to share or reuse this project publicly, consider adding a license such as [MIT](https://choosealicense.com/licenses/mit/).
-
 ---
 
 ## Author
